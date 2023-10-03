@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nikoszka
 - 👀 I’m interested in Computer Vision and Natural Language Processing
-- 🌱 I’m currently studying Artificial Intelligence at the Johannes Kepler Uyniversity in Linz
+- 🌱 I’m currently studying Artificial Intelligence at the Johannes Kepler University in Linz
 - 💞️ I’m looking to collaborate on autonomous driving 
 - 📫 How to reach me: just write me an e-mail
 
